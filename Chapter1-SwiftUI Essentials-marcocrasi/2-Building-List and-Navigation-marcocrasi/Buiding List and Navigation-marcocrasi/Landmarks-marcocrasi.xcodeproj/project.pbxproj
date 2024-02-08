@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FACDE56F2B27FF3000D3AF01 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = FACDE56E2B27FF3000D3AF01 /* landmarkData.json */; };
+		FA22AF4A2B75772300707E8B /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA22AF492B75772300707E8B /* landmarkData.json */; };
 		FACDE57C2B27FF4B00D3AF01 /* Landmarks_marcocrasiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF5D412B1EE32F00345124 /* Landmarks_marcocrasiApp.swift */; };
 		FACDE57D2B27FF4B00D3AF01 /* Landmarks_marcocrasiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF5D412B1EE32F00345124 /* Landmarks_marcocrasiApp.swift */; };
 		FACDE57F2B28033600D3AF01 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACDE57E2B28033600D3AF01 /* LandmarkList.swift */; };
@@ -44,7 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FACDE56E2B27FF3000D3AF01 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = "../../../../Swift UI Proyects Files/BuildingListsAndNavigation/Resources/landmarkData.json"; sourceTree = "<group>"; };
+		FA22AF492B75772300707E8B /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = "../../../../../../../SwiftUI Tutorials - Introducing SwiftUI/Chapter1-SwiftUI Essentials-marcocrasi/2-Building-List and-Navigation-marcocrasi/Buiding List and Navigation-marcocrasi/Landmarks-marcocrasi/Resources/landmarkData.json"; sourceTree = "<group>"; };
 		FACDE57E2B28033600D3AF01 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		FACDE5822B2807E300D3AF01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FACF5D3E2B1EE32F00345124 /* Landmarks-marcocrasi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Landmarks-marcocrasi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -172,7 +172,7 @@
 		FAFBE8012B27E63E00EF401B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FACDE56E2B27FF3000D3AF01 /* landmarkData.json */,
+				FA22AF492B75772300707E8B /* landmarkData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -283,7 +283,7 @@
 			files = (
 				FACF5D492B1EE33100345124 /* Preview Assets.xcassets in Resources */,
 				FACF5D462B1EE33100345124 /* Assets.xcassets in Resources */,
-				FACDE56F2B27FF3000D3AF01 /* landmarkData.json in Resources */,
+				FA22AF4A2B75772300707E8B /* landmarkData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
