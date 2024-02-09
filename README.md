@@ -16,7 +16,7 @@ I've been learning how to use SwiftUI to compose rich views from simple ones, se
 
 I discovered how to draw shapes and paths to create a badge that I animated, while creating seamless transitions between views.
 
-- 'Unit 2.1 - Draw paths and shapes - Introduction': The tutorial taught me how to create badges for each emblematic place visited, combining paths and shapes. I experimented with overlapping symbols, varying repetitions, angles and scales to create multiple insignia for different types of landmarks.
+- `Unit 2.1 - Draw paths and shapes - Introduction`: The tutorial taught me how to create badges for each emblematic place visited, combining paths and shapes. I experimented with overlapping symbols, varying repetitions, angles and scales to create multiple insignia for different types of landmarks.
 
 - `Unit 2.2 - Animating views and transitions - Introduction`: With SwiftUI, you can easily animate changes to views or their state, no matter where the effects occur. SwiftUI handles the complexity of these blended, overlapping, and interruptible animations. In this tutorial, I will animate a view with a graph to follow the user's walks in the Landmarks application, using the `animation(_ :)` modifier.
 
