@@ -11,6 +11,11 @@ To style the views, I have used `stacks` to combine and overlay the `image` and 
 - `Section 5`: Use SwiftUI views from other frameworks
 - `Section 6`: Compose the detailed view
 
+# Final Unit App
+
+![Photo-Landmarks-marcocrasi](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/a14a951a-ae8b-4223-b75d-85903828d639)
+
+
 # `Unit 1.2 Building lists and navigation - Introduction`
 
 With the basic detailed view of the landmark set up, I need to provide a way for users to see the full list of landmarks and to view details about each location. I will create views that can display information about any landmark and will dynamically generate a scrollable list that a user can tap to see a detailed view of a landmark. To fine-tune the UI, I'll use Xcode to render previews on different device sizes.
@@ -24,6 +29,10 @@ With the basic detailed view of the landmark set up, I need to provide a way for
 - `Section 7`: Pass data to child views
 - `Section 8`: Generate previews dynamically
 
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/f284f6c0-26a8-49bc-a533-7abf4158dce0
+
 # `Unit 1.3 Handling User Input - Introduction`
 
 In the Landmarks app, a user can mark their favorite places and filter the list to show only their favorites. To create this feature, I'll start by adding a toggle to the list so users can focus only on their favorites, and then I'll add a star button that a user will tap to mark a landmark as a favorite.
@@ -34,3 +43,9 @@ In the Landmarks app, a user can mark their favorite places and filter the list 
 - `Section 4`: Use observation for storage
 - `Section 5`: Adopt the model object in your views
 - `Section 6`: Create a favorites button for each emblematic place
+
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/0d0cd7f1-6c46-4b7a-a4c8-e418da8b81a3
+
+
