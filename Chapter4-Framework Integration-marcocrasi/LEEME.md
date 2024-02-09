@@ -41,7 +41,7 @@ Después de crear una versión de la aplicación Landmarks para watchOS, es hora
 - `Sección 6`: Añadí un comando de menú personalizado
 - `Sección 7`: Añadí preferencias con una escena de ajustes
 
-# Aplicaciónes de unidad final
+# Aplicaciónes de unidad finales
 
 `MacOS`
 
