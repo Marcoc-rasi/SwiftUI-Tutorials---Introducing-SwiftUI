@@ -10,6 +10,11 @@ I received a badge every time I visited a landmark on my list. Of course, in ord
 - `Section 2` : Draw the background of the badge
 - `Section 3`: Draw the badge symbol
 - `Section 4` : Merge the front and background of the badge
+  
+# Final Unit App
+| ![Badge Mixed Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/4c907e68-47c6-41de-927d-91c4b7dfd714) | ![Badge Background Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/d56b7b3f-8c47-43e9-b13f-d60fb05d5de4) | ![Badge Symbol Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2bfe6d0b-eb58-4910-81ce-863bec0d10d0) |
+
+
 
 ## ` Unit 2.2 - Animating views and transitions - Introduction`
 
@@ -22,6 +27,8 @@ In this tutorial, I'll animate a view that contains a graph to track the walks a
 - `Section 4` : Customize View Transitions`
 - `Section 5` : Composing animations for complex effects`
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/929c0169-8306-4fb3-a20a-96198e6ce482
 
 
