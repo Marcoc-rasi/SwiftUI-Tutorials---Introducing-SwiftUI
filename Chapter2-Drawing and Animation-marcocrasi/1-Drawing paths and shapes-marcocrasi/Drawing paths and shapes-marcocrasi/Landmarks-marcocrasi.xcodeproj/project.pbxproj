@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA3446142B29202C00690FCA /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA3446132B29202C00690FCA /* landmarkData.json */; };
+		FA22AF4E2B7580A500707E8B /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = FA22AF4D2B7580A500707E8B /* landmarkData.json */; };
 		FA3446162B2920DA00690FCA /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3446152B2920DA00690FCA /* HexagonParameters.swift */; };
 		FA3446182B2923D100690FCA /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3446172B2923D100690FCA /* BadgeBackground.swift */; };
 		FA34461A2B292F2C00690FCA /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3446192B292F2C00690FCA /* BadgeSymbol.swift */; };
@@ -50,7 +50,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FA3446132B29202C00690FCA /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
+		FA22AF4D2B7580A500707E8B /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarkData.json; path = "../../../../../../../SwiftUI Tutorials - Introducing SwiftUI/Chapter2-Drawing and Animation-marcocrasi/1-Drawing paths and shapes-marcocrasi/Drawing paths and shapes-marcocrasi/Landmarks-marcocrasi/Resources/landmarkData.json"; sourceTree = "<group>"; };
 		FA3446152B2920DA00690FCA /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		FA3446172B2923D100690FCA /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		FA3446192B292F2C00690FCA /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
@@ -214,7 +214,7 @@
 		FAFBE8012B27E63E00EF401B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FA3446132B29202C00690FCA /* landmarkData.json */,
+				FA22AF4D2B7580A500707E8B /* landmarkData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -325,7 +325,7 @@
 			files = (
 				FACF5D492B1EE33100345124 /* Preview Assets.xcassets in Resources */,
 				FACF5D462B1EE33100345124 /* Assets.xcassets in Resources */,
-				FA3446142B29202C00690FCA /* landmarkData.json in Resources */,
+				FA22AF4E2B7580A500707E8B /* landmarkData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
