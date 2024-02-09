@@ -176,3 +176,6 @@ Mi versión de Landmarks para watchOS está casi completa. En esta sección fina
     - Después de otorgar permiso, utilicé Xcode para detener la aplicación y luego arrastré el archivo `PushNotificationPayload` sobre la cara del reloj en el simulador. El simulador muestra una notificación desplazable que incluye: el ícono de la aplicación para ayudar a identificar la aplicación de Landmarks como el remitente, la vista de notificación y botones para las acciones de la notificación.
 
 
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/33c54d37-3697-4c24-ab3a-5e8c6fc09977

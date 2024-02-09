@@ -266,4 +266,16 @@ I started by adding a control in MapView that set the initial zoom to one of thr
 
 
 
+# Final Unit Apps
 
+`MacOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2a95673e-9f5f-4e98-bcff-64c0a60ef439
+
+`WatchOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/ae010d5e-dee3-47fe-b522-0f20508b754b
+
+`iOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2e0bad98-2b36-4505-9db8-d9c361379253

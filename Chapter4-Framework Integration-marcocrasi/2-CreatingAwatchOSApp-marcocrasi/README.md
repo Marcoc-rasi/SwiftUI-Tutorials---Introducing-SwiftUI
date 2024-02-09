@@ -175,5 +175,7 @@ My version of Landmarks for watchOS is almost complete. In this final section, I
 12. `Simulate a Notification:`
 - After granting permission, I used Xcode to stop the app and then dragged the `PushNotificationPayload` file over the watch face in the simulator. The simulator displays a scrollable notification that includes: the app icon to help identify the Landmarks app as the sender, the notification view, and buttons for notification actions.
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/33c54d37-3697-4c24-ab3a-5e8c6fc09977
 
