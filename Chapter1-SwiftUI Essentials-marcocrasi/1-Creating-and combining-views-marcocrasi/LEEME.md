@@ -169,5 +169,8 @@ Ahora tengo todos los componentes que necesito: el nombre y la ubicación, una i
    - Finalmente, moví el modificador de fuente subencabezado desde cada vista de texto a la HStack que las contiene, y apliqué el estilo secundario al texto subencabezado.
    - Cuando aplicas un modificador a una vista de diseño como una pila, SwiftUI aplica el modificador a todos los elementos contenidos en el grupo.
 
+# Aplicación de unidad final
+
+![Photo-Landmarks-marcocrasi](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/a14a951a-ae8b-4223-b75d-85903828d639)
 
 

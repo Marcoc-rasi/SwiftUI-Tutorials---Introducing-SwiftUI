@@ -136,3 +136,7 @@ The Landmarks app can now switch between a filtered and unfiltered view of landm
 7. `Go back to LandmarkList and Make sure Live Preview is On:`
 - I went back to LandmarkList and made sure the live preview was on.
 - As you navigate from the list to the details and tap the button, those changes persist when you return to the list. Because both views access the same model object in the environment, the two views maintain consistency.
+
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/0d0cd7f1-6c46-4b7a-a4c8-e418da8b81a3

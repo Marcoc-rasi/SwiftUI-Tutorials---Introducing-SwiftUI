@@ -169,6 +169,8 @@ Now I have all the components I need: the name and location, a circular image, a
 - Finally, I moved the subheader font modifier from each text view to the HStack that contains them, and applied the secondary style to the subheader text.
 - When you apply a modifier to a layout view such as a stack, SwiftUI applies the modifier to all elements contained in the group.
 
+# Final Unit App
 
+![Photo-Landmarks-marcocrasi](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/a14a951a-ae8b-4223-b75d-85903828d639)
 
 

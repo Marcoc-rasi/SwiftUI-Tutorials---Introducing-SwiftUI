@@ -207,4 +207,6 @@ Below I will render previews of the list view for different device configuration
 - I experimented with different devices and settings in Device Settings to see how my views look under other conditions.
 
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/f284f6c0-26a8-49bc-a533-7abf4158dce0

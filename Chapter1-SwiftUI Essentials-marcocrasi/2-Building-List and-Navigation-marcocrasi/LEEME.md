@@ -207,3 +207,6 @@ A continuación, representaré vistas previas de la vista de lista para diferent
    - Experimenté con diferentes dispositivos y configuraciones en la Configuración de Dispositivo para ver cómo se ven mis vistas bajo otras condiciones.
 
 
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/f284f6c0-26a8-49bc-a533-7abf4158dce0

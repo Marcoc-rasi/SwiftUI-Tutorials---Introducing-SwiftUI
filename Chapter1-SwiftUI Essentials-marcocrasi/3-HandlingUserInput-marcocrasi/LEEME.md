@@ -136,3 +136,7 @@ Ahora la aplicación Landmarks puede cambiar entre una vista filtrada y no filtr
 7. `Volver a LandmarkList y Asegurarse de que la Vista Previa en Vivo Esté Activada:`
    - Volví a LandmarkList y me aseguré de que la vista previa en vivo estuviera activada.
    - A medida que navegas de la lista a los detalles y tocas el botón, esos cambios persisten cuando regresas a la lista. Debido a que ambas vistas acceden al mismo objeto de modelo en el entorno, las dos vistas mantienen la consistencia.
+
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/0d0cd7f1-6c46-4b7a-a4c8-e418da8b81a3
