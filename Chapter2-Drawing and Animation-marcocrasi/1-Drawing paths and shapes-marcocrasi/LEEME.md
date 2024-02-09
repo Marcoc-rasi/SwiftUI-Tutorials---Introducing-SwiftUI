@@ -6,7 +6,7 @@ Yo recibía una insignia cada vez que visitaba un lugar emblemático en mi lista
 
 Para crear la insignia, empecé definiendo datos que podía usar para dibujar una forma de hexágono para el fondo de la insignia.
 
-### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos`:
 
@@ -32,7 +32,7 @@ Para crear la insignia, empecé definiendo datos que podía usar para dibujar un
 
 Utilicé las API gráficas en SwiftUI para dibujar una forma de insignia personalizada.
 
-### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Crear un Nuevo Archivo Swift:`
@@ -68,7 +68,7 @@ Utilicé las API gráficas en SwiftUI para dibujar una forma de insignia persona
 
 Para la insignia de Landmarks, incluí un emblema personalizado en su centro basado en la montaña que aparece en el icono de la aplicación Landmarks. El símbolo de la montaña consiste en dos formas: una que representa una capa de nieve en la cima y la otra que representa vegetación a lo largo del camino. Las dibujé utilizando dos formas parcialmente triangulares que están separadas por un pequeño espacio.
 
-### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Navegar al Icono de la Aplicación Vacío:`
@@ -94,7 +94,7 @@ Para la insignia de Landmarks, incluí un emblema personalizado en su centro bas
 El diseño de la insignia requiere que la forma de la montaña se rote y se repita varias veces encima del fondo de la insignia.
 Definí un nuevo tipo para la rotación y aproveché la vista ForEach para aplicar los mismos ajustes a múltiples copias de la forma de la montaña.
 
-### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Crear una Nueva Vista SwiftUI Llamada Badge:`

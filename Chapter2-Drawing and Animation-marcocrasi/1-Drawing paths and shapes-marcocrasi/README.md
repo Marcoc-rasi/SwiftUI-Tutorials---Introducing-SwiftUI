@@ -6,7 +6,7 @@ I received a badge every time I visited a landmark on my list. Of course, in ord
 
 To create the badge, I started by defining data that I could use to draw a hexagon shape for the background of the badge.
 
-### Summary of section steps
+### `Summary of section steps`
 
 `Steps`:
 
@@ -32,7 +32,7 @@ Segment` structure to hold the three points that represent one side of the hexag
 
 I used the graphics APIs in SwiftUI to draw a custom badge shape.
 
-### Summary of section steps
+### `Summary of section steps`
 
 ` Steps:`
 1. `Create a New Swift File:`
@@ -68,7 +68,7 @@ aspectRatio Modifier ( _: contentMode :) to Gradient Fill:`
 
 For the Landmarks badge, I included a custom emblem in its center based on the mountain that appears on the Landmarks app icon . The mountain symbol consists of two shapes: one representing a layer of snow at the top and the other representing vegetation along the path. I drew them using two partially triangular shapes that are separated by a small space.
 
-### Summary of section steps
+### `Summary of section steps`
 
 ` Steps:`
 1. `Navigate to Empty Application Icon :`
@@ -94,7 +94,7 @@ For the Landmarks badge, I included a custom emblem in its center based on the m
 The badge design requires that the mountain shape be rotated and repeated several times on top of the badge background.
 I defined a new type for the rotation and took advantage of the ForEach view to apply the same settings to multiple copies of the mountain shape.
 
-### Summary of section steps
+### `Summary of section steps`
 
 ` Steps:`
 1. `Create a New SwiftUI View Called Badge :`

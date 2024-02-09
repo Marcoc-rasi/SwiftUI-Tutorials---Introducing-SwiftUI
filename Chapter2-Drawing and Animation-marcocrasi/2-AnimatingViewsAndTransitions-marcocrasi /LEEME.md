@@ -1,13 +1,13 @@
-### `Unit 2.2 - Animando vistas y transiciones - Introducción`
+# `Unit 2.2 - Animando vistas y transiciones - Introducción`
 
 Cuando usé SwiftUI, pude animar individualmente los cambios en las vistas o en el estado de una vista, sin importar dónde estuvieran los efectos. SwiftUI maneja toda la complejidad de estas animaciones combinadas, superpuestas e interrumpibles por ti.
 En este tutorial, animaré una vista que contiene un gráfico para seguir las caminatas que un usuario realiza mientras usa la aplicación Landmarks. Usando el modificador `animation(_ :)`, verás lo fácil que es animar una vista.
 
-#### `Sección 1 - Agregar datos de senderismo a la aplicación`
+## `Sección 1 - Agregar datos de senderismo a la aplicación`
 
 Antes de poder agregar animación, necesitaré algo que animar. En esta sección, importaré y modelaré datos de senderismo, y luego agregaré algunas vistas preconstruidas para mostrar esos datos estáticamente en un gráfico.
 
-#### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Arrastrar el Archivo hikeData.json al Grupo de Recursos del Proyecto:`
@@ -27,11 +27,11 @@ Antes de poder agregar animación, necesitaré algo que animar. En esta sección
    - Aseguré utilizar la vista previa en vivo durante todo este tutorial para poder experimentar con los resultados de cada paso.
 
 
-### `Sección 2 - Agregar animaciones a vistas individuales`
+## `Sección 2 - Agregar animaciones a vistas individuales`
 
 Cuando utilicé el modificador `animation(_:)` en una vista equatable, SwiftUI animó cualquier cambio en las propiedades animables de la vista. El color, la opacidad, la rotación, el tamaño y otras propiedades de una vista son todas animables. Cuando la vista no es equatable, puedo usar el modificador `animation(_:value:)` para iniciar animaciones cuando cambia el valor especificado.
 
-#### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Activar la Animación para la Rotación del Botón en HikeView:`
@@ -49,11 +49,11 @@ Cuando utilicé el modificador `animation(_:)` en una vista equatable, SwiftUI a
    - Eliminé ambos modificadores de animación antes de pasar a la siguiente sección.
 
 
-### `Sección 3 - Animar los efectos de los cambios de estado`
+## `Sección 3 - Animar los efectos de los cambios de estado`
 
 Ahora que aprendí cómo aplicar animaciones a vistas individuales, es hora de agregar animaciones en lugares donde cambio el valor de mi estado. Aquí, aplicaré animaciones a todos los cambios que ocurren cuando un usuario toca un botón y alterna la propiedad de estado `showDetail`.
 
-#### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Envolver la Llamada a showDetail.toggle() con withAnimation:`
@@ -69,11 +69,11 @@ Ahora que aprendí cómo aplicar animaciones a vistas individuales, es hora de a
    - Antes de pasar a la siguiente sección, restauro la función `withAnimation` para usar la animación predeterminada eliminando el parámetro de entrada de la llamada.
 
 
-### `Sección 4 - Personalizar transiciones de vista`
+## `Sección 4 - Personalizar transiciones de vista`
 
 De forma predeterminada, las vistas hacen transiciones dentro y fuera de la pantalla mediante fundidos. Puedo personalizar esta transición utilizando el modificador `transition(_ :)`.
 
-#### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Agregar el Modificador transition(_:) a HikeView para la Transición Condicional:`
@@ -89,11 +89,11 @@ De forma predeterminada, las vistas hacen transiciones dentro y fuera de la pant
    - Usé el modificador `asymmetric(insertion:removal:)` para proporcionar transiciones diferentes cuando la vista aparece y desaparece.
 
 
-### `Sección 5 - Componer animaciones para efectos complejos`
+## `Sección 5 - Componer animaciones para efectos complejos`
 
 El gráfico cambia entre tres conjuntos diferentes de datos cuando haces clic en los botones debajo de las barras. En esta sección, utilizaré una animación compuesta para dar a las cápsulas que componen el gráfico una transición dinámica y ondulada.
 
-#### Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Cambiar el Valor Predeterminado de showDetail a Verdadero en HikeView:`

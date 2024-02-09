@@ -1,13 +1,13 @@
-### `Unit 2.2 - Animating views and transitions - Introduction`
+# `Unit 2.2 - Animating views and transitions - Introduction`
 
 When I used SwiftUI, I was able to individually animate changes to views or a view's state, no matter where the effects were. SwiftUI handles all the complexity of these blended, overlapping, and interruptible animations for you.
 In this tutorial, I will animate a view that contains a graph to track the walks a user takes while using the Landmarks app. Using the `animation(_ :)` modifier, you'll see how easy it is to animate a view.
 
-#### `Section 1 - Add Hiking Data to the App`
+## `Section 1 - Add Hiking Data to the App`
 
 Before I can add animation, I'll need something to animate. In this section, I'll import and model hiking data, and then add some pre-built views to display that data statically on a graph.
 
-#### Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Drag the hikeData.json File to the Project Resource Group:`
@@ -27,11 +27,11 @@ Before I can add animation, I'll need something to animate. In this section, I'l
 - I made sure to use the live preview throughout this tutorial so I could experiment with the results of each step.
 
 
-### `Section 2 - Adding animations to individual views`
+## `Section 2 - Adding animations to individual views`
 
 When I used the `animation(_:)` modifier on an equatable view, SwiftUI animated any changes to the view's animatable properties. The color, opacity, rotation, size, and other properties of a view are all animatable. When the view is not equatable, I can use the `animation(_:value:)` modifier to start animations when the specified value changes.
 
-#### Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Enable Button Rotation Animation in HikeView:`
@@ -49,11 +49,11 @@ When I used the `animation(_:)` modifier on an equatable view, SwiftUI animated 
 - I removed both animation modifiers before moving on to the next section.
 
 
-### `Section 3 - Animate the effects of state changes`
+## `Section 3 - Animate the effects of state changes`
 
 Now that I've learned how to apply animations to individual views, it's time to add animations in places where I change my state value. Here, I will apply animations to all the changes that occur when a user taps a button and toggles the `showDetail` state property.
 
-#### Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Wrap the Call to showDetail.toggle() with withAnimation:`
@@ -69,11 +69,11 @@ Now that I've learned how to apply animations to individual views, it's time to 
 - Before moving on to the next section, I restore the `withAnimation` function to use the default animation by removing the input parameter from the call.
 
 
-### `Section 4 - Customize View Transitions`
+## `Section 4 - Customize View Transitions`
 
 By default, views transition on and off the screen using fades. I can customize this transition using the `transition(_ :)` modifier.
 
-#### Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Add transition(_:) Modifier to HikeView for Conditional Transition:`
@@ -89,11 +89,11 @@ By default, views transition on and off the screen using fades. I can customize 
 - Used the `asymmetric(insertion:removal:)` modifier to provide different transitions when the view appears and disappears.
 
 
-### `Section 5 - Composing animations for complex effects`
+## `Section 5 - Composing animations for complex effects`
 
 The chart switches between three different sets of data when you click the buttons below the bars. In this section, I'll use a composite animation to give the capsules that make up the graph a dynamic, wavy transition.
 
-#### Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Change the Default Value of showDetail to True in HikeView:`

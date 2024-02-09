@@ -6,7 +6,7 @@ The category view for Landmarks displays a vertically scrolling list of horizont
 
 I can provide a different way to explore landmarks by creating a view that sorts landmarks by category, while highlighting a featured landmark at the top of the view.
 
-### `Summary of section steps
+### `Summary of section steps`
 
 `Steps:`
 1. `Create a Category Group in the Project View Group and a Custom View called CategoryHome:`

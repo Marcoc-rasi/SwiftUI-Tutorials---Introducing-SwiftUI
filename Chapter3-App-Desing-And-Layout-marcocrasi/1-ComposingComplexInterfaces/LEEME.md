@@ -6,7 +6,7 @@ La vista de categoría para Landmarks muestra una lista de desplazamiento vertic
 
 Puedo proporcionar una forma diferente de explorar los lugares emblemáticos creando una vista que clasifique los lugares emblemáticos por categoría, mientras destaco un lugar emblemático destacado en la parte superior de la vista.
 
-### `Resumen de los pasos de la sección
+### `Resumen de los pasos de la sección`
 
 `Pasos:`
 1. `Crear un Grupo de Categorías en el Grupo de Vistas del Proyecto y una Vista Personalizada llamada CategoryHome:`
