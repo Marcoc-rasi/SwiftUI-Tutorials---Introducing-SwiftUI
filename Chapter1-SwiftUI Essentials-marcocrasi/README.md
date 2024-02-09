@@ -26,6 +26,8 @@ With the basic detailed view of the landmark set up, I need to provide a way for
 
 # `Unit 1.3 Handling User Input - Introduction`
 
+In the Landmarks app, a user can mark their favorite places and filter the list to show only their favorites. To create this feature, I'll start by adding a toggle to the list so users can focus only on their favorites, and then I'll add a star button that a user will tap to mark a landmark as a favorite.
+
 - `Section 1`: Mark favorite emblematic places
 - `Section 2`: Filter List View`
 - `Section 3`: Add a control to toggle state

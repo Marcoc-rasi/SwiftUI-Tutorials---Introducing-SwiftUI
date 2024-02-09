@@ -26,6 +26,8 @@ Con la vista detallada básica del lugar emblemático configurada, necesito prop
 
 # `Unidad 1.3 Manejo de la entrada del usuario - Introducción`
 
+En la aplicación Landmarks, un usuario puede marcar sus lugares favoritos y filtrar la lista para mostrar solo sus favoritos. Para crear esta función, empezaré por agregar un interruptor a la lista para que los usuarios puedan centrarse solo en sus favoritos, y luego agregaré un botón con forma de estrella que un usuario tocará para marcar un lugar emblemático como favorito.
+
 - `Sección 1`: Marcar lugares emblemáticos favoritos
 - `Sección 2`: Filtrar la vista de lista`
 - `Sección 3`: Agregar un control para alternar el estado
