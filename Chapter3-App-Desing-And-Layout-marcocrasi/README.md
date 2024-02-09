@@ -11,6 +11,10 @@ The category view for Landmarks displays a vertically scrolling list of horizont
 - `Section 3`: I created a category row
 - `Section 4`: I completed the category view
 - `Section 5`: Added navigation between sections
+  
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2f954566-ec75-4b67-9e4f-68ba14fab0f1
 
 ## `Unit 3.2 - Working with UI Controls - Introduction`
 
@@ -20,3 +24,8 @@ In the Landmarks app, users can create a profile to express their personality. T
 - `Section 2`: Add an editing mode
 - `Section 3`: Define the profile editor
 - `Section 4`: Delay the propagation of the edition
+
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/b277ccda-872e-4e29-9bbd-703ecb52fcaa
+
