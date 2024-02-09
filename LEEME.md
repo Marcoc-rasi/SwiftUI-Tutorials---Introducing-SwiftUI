@@ -37,3 +37,17 @@ Usé vistas de SwiftUI junto con las vistas y controladores de vista de los fram
 - `Unidad 4.2 - Creando una aplicación para watchOS - Introducción`: En este tutorial, aproveché mi conocimiento de SwiftUI para migrar la aplicación Landmarks a watchOS con facilidad. Agregué un objetivo de watchOS al proyecto, copié los datos y vistas compartidos de iOS, y personalicé las vistas de SwiftUI para watchOS.
 
 - `Unidad 4.3 - Creación de una aplicación para macOS - Introducción`: Después de crear Landmarks para watchOS, llevaré la aplicación a Mac. Agregaré un objetivo de macOS al proyecto, reutilizaré vistas y datos existentes y adaptaré las vistas para todas las plataformas.
+
+# Aplicaciónes Finales
+
+`MacOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2a95673e-9f5f-4e98-bcff-64c0a60ef439
+
+`WatchOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/ae010d5e-dee3-47fe-b522-0f20508b754b
+
+`iOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2e0bad98-2b36-4505-9db8-d9c361379253
