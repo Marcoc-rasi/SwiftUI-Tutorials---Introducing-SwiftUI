@@ -114,4 +114,6 @@ Para que las ediciones no surtan efecto hasta que el usuario salga del modo de e
    - Apliqué los modificadores onAppear(perform:) y onDisappear(perform:) para poblar el editor con los datos de perfil correctos y actualizar el perfil persistente cuando el usuario toca el botón de Hecho (Done).
    - De lo contrario, los valores antiguos aparecen la próxima vez que se activa el modo de edición.
 
+# Aplicación de unidad final
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/b277ccda-872e-4e29-9bbd-703ecb52fcaa

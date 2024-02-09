@@ -114,5 +114,7 @@ With all the differently categorized landmarks visible in the view, the user nee
 7. `Make sure Live Preview is On and Test the New Navigation:`
 - I made sure live preview was on and tested the new navigation.
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2f954566-ec75-4b67-9e4f-68ba14fab0f1
 

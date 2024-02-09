@@ -115,3 +115,6 @@ Con todos los lugares emblemáticos categorizados de manera diferente visibles e
    - Me aseguré de que la vista previa en vivo estuviera activada y probé la nueva navegación.
 
 
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2f954566-ec75-4b67-9e4f-68ba14fab0f1

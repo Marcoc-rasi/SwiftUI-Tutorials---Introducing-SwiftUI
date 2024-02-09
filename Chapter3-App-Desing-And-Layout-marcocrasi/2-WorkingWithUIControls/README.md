@@ -115,4 +115,6 @@ So that edits don't take effect until the user exits edit mode, I use the stagin
 - Otherwise, the old values appear the next time editing mode is activated.
 
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/b277ccda-872e-4e29-9bbd-703ecb52fcaa
