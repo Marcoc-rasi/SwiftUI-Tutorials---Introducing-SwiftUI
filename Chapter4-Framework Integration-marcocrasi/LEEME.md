@@ -11,6 +11,10 @@ Trabajé con SwiftUI para que funcionara perfectamente con los frameworks de int
 - `Sección 3`: Seguí la página en el estado de una vista de SwiftUI
 - `Sección 4`: Agregué un control de página personalizado
 
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/a004cc62-d8ce-42ed-86ad-cafa65cfdf9f
+
 ## `Unidad 4.2 - Creando una aplicación para watchOS - Introducción`
 
 En este tutorial, tuve la oportunidad de aplicar gran parte de lo que ya había aprendido sobre SwiftUI y, con poco esfuerzo, migrar la aplicación Landmarks a watchOS. Comencé agregando un objetivo de watchOS a mi proyecto, antes de copiar los datos y vistas compartidos que creé para la aplicación iOS. Con todos los recursos en su lugar, personalicé las vistas de SwiftUI para mostrar las vistas de detalle y lista en watchOS.
@@ -20,6 +24,10 @@ En este tutorial, tuve la oportunidad de aplicar gran parte de lo que ya había 
 - `Sección 3`: Creé la vista detallada
 - `Sección 4`: Agregué la lista de lugares emblemáticos
 - `Sección 5`: Creé una interfaz de notificación personalizada
+
+# Aplicación de unidad final
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/33c54d37-3697-4c24-ab3a-5e8c6fc09977
 
 ## `Unidad 4.3 - Creación de una aplicación para macOS - Introducción`
 
@@ -32,3 +40,17 @@ Después de crear una versión de la aplicación Landmarks para watchOS, es hora
 - `Sección 5`: Agregar un comando de menú integrado
 - `Sección 6`: Añadí un comando de menú personalizado
 - `Sección 7`: Añadí preferencias con una escena de ajustes
+
+# Aplicación de unidad final
+
+`MacOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2a95673e-9f5f-4e98-bcff-64c0a60ef439
+
+`WatchOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/ae010d5e-dee3-47fe-b522-0f20508b754b
+
+`iOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2e0bad98-2b36-4505-9db8-d9c361379253
