@@ -112,4 +112,6 @@ El gráfico cambia entre tres conjuntos diferentes de datos cuando haces clic en
    - Observé cómo la animación personalizada proporciona un efecto ondulante al hacer la transición entre gráficos.
    - Asegúrate de desfijar la vista previa antes de pasar al siguiente tutorial.
 
+# Aplicación de unidad final
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/929c0169-8306-4fb3-a20a-96198e6ce482

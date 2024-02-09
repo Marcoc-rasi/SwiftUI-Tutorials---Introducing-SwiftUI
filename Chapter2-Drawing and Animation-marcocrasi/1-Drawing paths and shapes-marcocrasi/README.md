@@ -111,5 +111,6 @@ I defined a new type for the rotation and took advantage of the ForEach view to 
 6. `To Keep the Project Organized, Before Moving on to the Next Tutorial, Group All New Files into a Group of Badges : `
 - To keep the project organized, I grouped all the new files I added in this tutorial into a group called Badges .
 
+# Final Unit App
 
-
+| ![Badge Mixed Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/4c907e68-47c6-41de-927d-91c4b7dfd714) | ![Badge Background Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/d56b7b3f-8c47-43e9-b13f-d60fb05d5de4) | ![Badge Symbol Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2bfe6d0b-eb58-4910-81ce-863bec0d10d0) |

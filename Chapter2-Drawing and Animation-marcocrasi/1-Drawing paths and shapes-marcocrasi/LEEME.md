@@ -112,3 +112,6 @@ Definí un nuevo tipo para la rotación y aproveché la vista ForEach para aplic
    - Para mantener organizado el proyecto, agrupé todos los nuevos archivos que agregué en este tutorial en un grupo llamado Badges.
 
 
+# Aplicación de unidad final
+
+| ![Badge Mixed Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/4c907e68-47c6-41de-927d-91c4b7dfd714) | ![Badge Background Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/d56b7b3f-8c47-43e9-b13f-d60fb05d5de4) | ![Badge Symbol Photo](https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2bfe6d0b-eb58-4910-81ce-863bec0d10d0) |

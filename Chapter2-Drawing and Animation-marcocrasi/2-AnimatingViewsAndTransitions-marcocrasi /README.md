@@ -112,5 +112,7 @@ The chart switches between three different sets of data when you click the butto
 - Noticed how the custom animation provides a rippling effect when transitioning between graphics.
 - Make sure to unpin the preview before moving on to the next tutorial.
 
+# Final Unit App
 
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/929c0169-8306-4fb3-a20a-96198e6ce482
 
