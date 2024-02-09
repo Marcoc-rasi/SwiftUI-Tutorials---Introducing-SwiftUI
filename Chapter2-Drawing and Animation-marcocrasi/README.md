@@ -21,11 +21,11 @@ I received a badge every time I visited a landmark on my list. Of course, in ord
 When I used SwiftUI , I was able to individually animate changes to views or a view's state, no matter where the effects were. SwiftUI handles all the complexity of these blended, overlapping, and interruptible animations for you.
 In this tutorial, I'll animate a view that contains a graph to track the walks a user takes while using the Landmarks app . Using the ` animation ( _:)` modifier, you'll see how easy it is to animate a view.
 
-- `Section 1` : Add hiking data to the app`
-- `Section 2` : Add animations to individual views`
-- `Section 3` : Animate the effects of state changes`
-- `Section 4` : Customize View Transitions`
-- `Section 5` : Composing animations for complex effects`
+- `Section 1` : Add hiking data to the app
+- `Section 2` : Add animations to individual views
+- `Section 3` : Animate the effects of state changes
+- `Section 4` : Customize View Transitions
+- `Section 5` : Composing animations for complex effects
 
 # Final Unit App
 
