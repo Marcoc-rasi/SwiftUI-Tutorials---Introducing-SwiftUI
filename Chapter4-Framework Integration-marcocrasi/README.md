@@ -11,6 +11,10 @@ I worked with SwiftUI to make it work seamlessly with existing UI frameworks acr
 - `Section 3`: Followed the page in the state of a SwiftUI view
 - `Section 4`: I added a custom page control
 
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/a004cc62-d8ce-42ed-86ad-cafa65cfdf9f
+
 ## `Unit 4.2 - Creating an app for watchOS - Introduction`
 
 In this tutorial, I had the opportunity to apply much of what I had already learned about SwiftUI and, with little effort, migrate the Landmarks app to watchOS. I started by adding a watchOS target to my project, before copying the shared data and views I created for the iOS app. With all the resources in place, I customized the SwiftUI views to display the detail and list views in watchOS.
@@ -20,6 +24,10 @@ In this tutorial, I had the opportunity to apply much of what I had already lear
 - `Section 3`: I created the detailed view
 - `Section 4`: Added the list of emblematic places
 - `Section 5`: I created a custom notification interface
+
+# Final Unit App
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/33c54d37-3697-4c24-ab3a-5e8c6fc09977
 
 ## `Unit 4.3 - Creating a macOS application - Introduction`
 
@@ -32,3 +40,21 @@ After building a version of the Landmarks app for watchOS, it's time to look at 
 - `Section 5`: Add a built-in menu command
 - `Section 6`: Added a custom menu command
 - `Section 7`: Added preferences with a settings scene
+
+# Final Unit Apps
+
+
+`MacOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2a95673e-9f5f-4e98-bcff-64c0a60ef439
+
+`WatchOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/ae010d5e-dee3-47fe-b522-0f20508b754b
+
+`iOS`
+
+https://github.com/Marcoc-rasi/SwiftUI-Tutorials---Introducing-SwiftUI/assets/51039101/2e0bad98-2b36-4505-9db8-d9c361379253
+
+
+
